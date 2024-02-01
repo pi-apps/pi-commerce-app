@@ -11,6 +11,6 @@
   
 <br>
 
-### Open Development Projects Seeking Contributions
+### Active Projects Seeking Contributions
   1. [Local Commerce Hub](https://github.com/pi-apps/local-commerce-hub)
   2. *Add a link to your project here*
